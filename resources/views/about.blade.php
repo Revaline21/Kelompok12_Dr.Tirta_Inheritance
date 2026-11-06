@@ -12,13 +12,6 @@
                 <p class="mt-4">Dengan ini kami dapat memenuhi penilaian terhadap tugas kami.</p>
             </div>
             <ul class="mt-8 space-y-4 text-sm text-neutral-950 dark:text-neutral-50">
-                <li class="flex items-center gap-3"><span
-                        class="flex size-8 shrink-0 items-center justify-center rounded-lg bg-neutral-100 text-neutral-950 dark:bg-neutral-800 dark:text-neutral-50"><svg
-                            class="size-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"
-                            stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <path
-                                d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384" />
-                            </svg></span>Phone booths and rooms booked from the app</li>
             </ul>
             <a href="#"
                 class="group/link mt-8 inline-flex items-center gap-1 rounded-sm text-sm font-medium whitespace-nowrap text-zinc-950 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-zinc-950 dark:text-zinc-50 dark:focus-visible:outline-zinc-50">Read
@@ -31,17 +24,15 @@
         </div>
 
         <figure>
-            <div class="aspect-[4/3] overflow-hidden rounded-2xl bg-neutral-100 dark:bg-neutral-800">
-                <img src="https://readymadeui.com/images/about-image-1.webp"
-                    alt="People working on laptops along a long wooden table in a bright, plant-filled workspace"
-                    class="size-full object-cover" />
+            <div class="aspect-[4/3] overflow-hidden rounded-2xl bg-neutral-100">
+                <img src="img/Dr.Tirta.jpg" alt="dr.Tirta berbicara" />   
             </div>
             <figcaption class="mt-3 flex items-start gap-2 text-sm text-neutral-600 dark:text-neutral-400"><svg
                     class="mt-0.5 size-4 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                     stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                     <path
                         d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0" />
-                    <circle cx="12" cy="10" r="3" /></svg>Members at the long table in Atrium Príncipe Real, Lisbon.
+</svg>
             </figcaption>
         </figure>
     </div>
